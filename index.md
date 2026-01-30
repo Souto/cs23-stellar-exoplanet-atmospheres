@@ -16,9 +16,10 @@ This CS23 splinter session brings together the **Cool Stars** and **exoplanet** 
 Many key atmospheric targets orbit **K and M dwarfs**, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links between **stellar chemistry**, **planet formation and structure**, and **retrieved atmospheric properties**.
 
 ## Quick links
-- **Call for contributions:** see [Call for Contributions](/call-for-contributions/)
-- **Program:** see [Program](/program/)
-- **Organizers:** see [Organizers](/organizers/)
-- **Contact:** see [Contact](/contact/)
+- **Call for contributions:** see [Call for Contributions]({{ site.baseurl }}/call-for-contributions/)
+- **Program:** see [Program]({{ site.baseurl }}/program/)
+- **Organizers:** see [Organizers]({{ site.baseurl }}/organizers/)
+- **Contact:** see [Contact]({{ site.baseurl }}/contact/)
+
 
 > **Reminder:** CS23 follows a **one-person–one-talk** policy. Plenary speakers cannot give a talk in a splinter session, and no one can present in more than one splinter.
