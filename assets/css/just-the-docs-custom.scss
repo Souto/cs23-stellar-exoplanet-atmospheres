@@ -6,3 +6,11 @@ $nav-width: 220px;
 
 // Reduce header/site title area a little
 $header-height: 52px;
+
+
+.site-title {
+  font-size: 18px !important;
+  line-height: 1.2 !important;
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.6rem !important;
+}
