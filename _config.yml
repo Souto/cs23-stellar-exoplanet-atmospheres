@@ -9,11 +9,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-just_the_docs:
-  custom_css:
-    - assets/css/just-the-docs-custom.scss
-
-
 search_enabled: true
 search:
   button: true
