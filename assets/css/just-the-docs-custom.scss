@@ -1,110 +1,79 @@
-/* ==========================================================================
-   Custom styling for Just the Docs
-   - Bigger fonts
-   - Narrower sidebar
-   - Astronomy background image + readable overlay
-   ========================================================================== */
+/* ============================================================
+   JUST THE DOCS — HARD OVERRIDES (SAFE MODE)
+   ============================================================ */
 
-/* ---- Attempt #1: SCSS variables (works when compiled properly) ---- */
-$font-size-base: 19px !default;
-$nav-width: 220px !default;
-
-/* ---- Fallback / Force overrides (works even if variables don't) ---- */
-
-/* 1) GLOBAL TYPOGRAPHY (bigger overall font) */
-html, body {
-  font-size: 18px !important; /* fallback base */
-  line-height: 1.55 !important;
+/* ---------- GLOBAL TEXT SIZE ---------- */
+html {
+  font-size: 18px !important;
 }
 
+body {
+  font-size: 18px !important;
+  line-height: 1.6 !important;
+  background-color: #f7f8fa !important; /* soft white */
+}
+
+/* ---------- MAIN CONTENT ---------- */
 .main-content {
   font-size: 1.05rem !important;
+  background-color: #ffffff !important;
+  padding: 2rem !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.05) !important;
 }
 
+/* ---------- HEADINGS ---------- */
 h1 {
-  font-size: 2.25rem !important;
+  font-size: 2.3rem !important;
   line-height: 1.15 !important;
 }
 
 h2 {
-  font-size: 1.65rem !important;
-  line-height: 1.25 !important;
+  font-size: 1.6rem !important;
 }
 
 h3 {
   font-size: 1.25rem !important;
 }
 
-/* Slightly larger navigation text */
-.nav-list .nav-list-item a {
-  font-size: 1.02rem !important;
-}
-
-/* 2) SIDEBAR WIDTH + COMPACT TITLE AREA */
+/* ---------- SIDEBAR WIDTH ---------- */
 .side-bar {
   width: 220px !important;
   min-width: 220px !important;
+  background-color: #f3f4f6 !important;
 }
 
+/* Push main content to match sidebar */
 @media (min-width: 50rem) {
   .main {
     margin-left: 220px !important;
   }
 }
 
-/* Reduce the big site title block and padding */
+/* ---------- SIDEBAR TITLE (SHORTER) ---------- */
 .site-title {
-  font-size: 17px !important;
+  font-size: 16px !important;
   line-height: 1.2 !important;
-  padding-top: 0.6rem !important;
-  padding-bottom: 0.6rem !important;
-}
-
-/* Reduce overall sidebar padding */
-.side-bar {
   padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
 }
 
-/* 3) ASTRONOMICAL BACKGROUND IMAGE
-   Put your image at: assets/images/bg.jpg
-*/
-.main-content-wrap {
-  position: relative;
-  background-image: url("../images/bg.jpg");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+/* ---------- SIDEBAR LINKS ---------- */
+.nav-list .nav-list-item a {
+  font-size: 1rem !important;
+  padding-top: 0.25rem !important;
+  padding-bottom: 0.25rem !important;
 }
 
-/* Make the reading area opaque for readability */
-.main-content {
-  background: rgba(255, 255, 255, 0.92) !important;
-  border-radius: 14px !important;
-  padding: 2rem !important;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.08) !important;
-}
-
-/* Optional: soften the sidebar background so it matches the theme */
-.side-bar {
-  background: rgba(248, 249, 250, 0.96) !important;
-  backdrop-filter: blur(4px);
-}
-
-/* Optional: slightly bolder links for a more "modern" look */
+/* ---------- LINKS ---------- */
 a {
-  font-weight: 600;
+  font-weight: 600 !important;
 }
 
-/* Improve list spacing */
-ul, ol {
-  margin-top: 0.4rem;
-  margin-bottom: 0.8rem;
-}
-
-/* Make callouts / blockquotes look nicer */
+/* ---------- BLOCKQUOTES ---------- */
 blockquote {
-  background: rgba(0,0,0,0.03);
-  border-left: 4px solid rgba(0,0,0,0.15);
-  padding: 0.75rem 1rem;
-  border-radius: 10px;
+  background-color: #f1f3f5 !important;
+  border-left: 4px solid #cfd4da !important;
+  padding: 0.75rem 1rem !important;
+  border-radius: 8px !important;
 }
