@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres
+description: The Cool Stars 23 webpage for the Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres Splinter Session
 theme: just-the-docs
+color_scheme: light
 
-url: https://just-the-docs.github.io
-
+url: 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
