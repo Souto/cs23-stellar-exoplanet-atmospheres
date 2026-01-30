@@ -14,12 +14,3 @@ permalink: pretty
 color_scheme: light
 heading_anchors: true
 
-aux_links:
-  "CS23 Main Website":
-    - "https://coolstars23.github.io/"
-  "Call for Contributions":
-    - "{{ site.baseurl }}/call-for-contributions/"
-  "Program":
-    - "{{ site.baseurl }}/program/"
-  "Contact":
-    - "{{ site.baseurl }}/contact/"
