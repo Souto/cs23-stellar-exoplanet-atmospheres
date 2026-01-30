@@ -1,35 +1,25 @@
 title: "Connecting Stellar Chemistry to Exoplanet Structure and Atmospheres"
-description: "Cool Stars 23 splinter session — bridging host-star abundances with exoplanet interiors and atmospheric composition in the JWST/ARIEL era."
-theme: just-the-docs
+description: "CS23 splinter session — bridging host-star abundances with exoplanet interiors and atmospheric composition in the JWST/ARIEL era."
 
 url: "https://souto.github.io"
 baseurl: "/cs23-stellar-exoplanet-atmospheres"
 
-# Optional: show a logo in the sidebar (add a file under docs/assets/images/)
-# logo: "/assets/images/logo.png"
+remote_theme: just-the-docs/just-the-docs
 
-# Enable search in the sidebar
+plugins:
+  - jekyll-remote-theme
+
 search_enabled: true
-
-# Better looking permalinks
 permalink: pretty
+color_scheme: light
+heading_anchors: true
 
-# Top-right links (edit as you like)
 aux_links:
   "CS23 Main Website":
     - "https://coolstars23.github.io/"
   "Call for Contributions":
-    - "/call-for-contributions/"
+    - "{{ site.baseurl }}/call-for-contributions/"
+  "Program":
+    - "{{ site.baseurl }}/program/"
   "Contact":
-    - "/contact/"
-
-# Footer (optional)
-footer_content: "© CS23 Splinter Session Organizers"
-
-# Just the Docs settings
-color_scheme: light
-heading_anchors: true
-
-# External links open in new tab (optional)
-# just_the_docs:
-#   external_nav_links_new_tab: true
+    - "{{ site.baseurl }}/contact/"
