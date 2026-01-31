@@ -5,10 +5,6 @@ excerpt: |
   A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era. 
 excerpt: |  
   Tuesday, June 16h, 2026.
-excerpt: |  
-     
-excerpt: |  
-     
 
 header:
   overlay_image: /assets/images/hero.png
