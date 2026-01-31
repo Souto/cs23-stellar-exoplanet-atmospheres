@@ -1,3 +1,24 @@
+<style>
+.btn {
+  border-radius: 999px !important;  /* makes pill shape */
+  padding: 0.7em 1.6em;
+  backdrop-filter: blur(4px);
+}
+</style>
+
+<style>
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+</style>
+
+<style>
+h2, h3 {
+  color: #b23a2f; /* dark tomato */
+}
+</style>
+
 ## <i> Motivation </i>
 
 The past decade has transformed how we study the chemical connection between stars and their planets. Large, high-resolution stellar surveys now provide precise elemental abundances for thousands of planet-hosting stars, while HST, JWST, and future missions like ARIEL are delivering atmospheric spectra of unprecedented quality across a wide range of exoplanets. For the first time, we can directly test whether planetary interiors and atmospheres preserve, modify, or erase the chemical fingerprint of their host stars and natal disks.
