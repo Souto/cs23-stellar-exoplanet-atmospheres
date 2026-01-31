@@ -74,7 +74,7 @@ Many key atmospheric targets orbit K and M dwarfs, yet accurate stellar abundanc
 - [Motivation](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/motivation/)
 - [Program](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/program/)
 - [Contributions](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/call-for-contributions/)
-- [Organizers](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/organizers/))
+- [Organizers](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/organizers/)
 - [Contact](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/contact/)
 
 ## <i>Contact</i>
