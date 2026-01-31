@@ -43,7 +43,7 @@ h2, h3 {
 
 
 
-## Welcome 
+### Welcome 
 
 This CS23 splinter session brings together the Cool Stars and exoplanet communities to discuss how **host-star chemical abundances** inform (and sometimes fail to predict) **exoplanet interiors** and **atmospheric composition**, especially in the **JWST and ARIEL era**.
 
