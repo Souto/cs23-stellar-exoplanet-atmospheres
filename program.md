@@ -1,5 +1,39 @@
+---
+layout: splash
+title: "Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres"
+excerpt: |
+  A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era. 
+  Tuesday, June 16h, 2026.
 
-### 
+header:
+  overlay_image: /assets/images/hero.png
+  overlay_filter: 0.35
+  overlay_color: "#0b1026"
+
+---
+
+
+<style>
+.btn {
+  border-radius: 999px !important;  /* makes pill shape */
+  padding: 0.7em 1.6em;
+  backdrop-filter: blur(4px);
+}
+</style>
+
+<style>
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+</style>
+
+<style>
+h2, h3 {
+  color: #b23a2f; /* dark tomato */
+}
+</style>
+
 
 The session is organized into two 90-minute blocks, separated by a 20-minute coffee break.
 
