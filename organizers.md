@@ -44,79 +44,79 @@ h2, h3 {
 </style>
 
 <style>
-.organizers-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 1.8rem;
+.organizers-grid{
+  display:grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2rem 1.6rem;
   margin-top: 1.5rem;
 }
 
-.organizer {
-  text-align: center;
+/* 2 columns on tablets */
+@media (max-width: 900px){
+  .organizers-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
-.organizer img {
-  width: 130px;
-  height: 130px;
-  object-fit: cover;
-  border-radius: 50%;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  margin-bottom: 0.6rem;
+/* 1 column on phones */
+@media (max-width: 520px){
+  .organizers-grid{ grid-template-columns: 1fr; }
 }
 
-.organizer a {
-  font-weight: 600;
-  text-decoration: none;
-  color: inherit;
+/* prevent ugly name breaks */
+.organizer a{
+  display:inline-block;
+  white-space: nowrap;
 }
 
-.organizer a:hover {
-  text-decoration: underline;
+.organizer{
+  text-align:center;
+}
+.organizer img{
+  width:130px;
+  height:130px;
+  object-fit:cover;
+  border-radius:50%;
+  box-shadow:0 4px 12px rgba(0,0,0,0.15);
+  margin-bottom:0.6rem;
 }
 </style>
+
 
 
 <div class="organizers-grid">
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
+  <img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">
   <a href="https://your-link-here.com">Diogo Souto</a><br>
   Federal University of Sergipe, Brazil
 </div>
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
-  <a href="https://your-link-here.com">Katia Cunha</a><br>
+<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Katia Cunha</a><br>
   Steward Observatory, USA
 </div>
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
-  <a href="https://your-link-here.com">Nuno Santos</a><br>
+<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Nuno Santos</a><br>
   Instituto de Astrofísica e Ciências do Espaço, Portugal
 </div>
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
-  <a href="https://your-link-here.com">Rafael Luque</a><br>
+<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Rafael Luque</a><br>
   Instituto de Astrofísica de Andalucía, Spain
 </div>
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
-  <a href="https://your-link-here.com">Enric Palle</a><br>
+<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Enric Palle</a><br>
   Instituto de Astrofísica de Canarias, Spain
 </div>
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
-  <a href="https://your-link-here.com">Ian Crossfield</a><br>
+<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Ian Crossfield</a><br>
   University of Kansas, USA
 </div>
 
 <div class="organizer">
-  <img src="/assets/images/souto.png">
-  <a href="https://your-link-here.com">Yui Kawashima</a><br>
+<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Yui Kawashima</a><br>
   Kyoto University, Japan
 </div>
 
@@ -124,7 +124,6 @@ h2, h3 {
 
 
 
-
-
+### Our team
 
 We are committed to building an inclusive, interdisciplinary forum that supports participation from early-career researchers and a broad international community.
