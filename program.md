@@ -1,9 +1,9 @@
 
-## Program
+### Program
 
 The session is organized into two 90-minute blocks, separated by a 20-minute coffee break.
 
-## Block 1 — Star–planet connection and interiors (90 min)
+### Block 1 — Star–planet connection and interiors (90 min)
 - **Invited keynote:** 25 min + 5 min Q&A  
   *State-of-the-art overview of the star–planet chemical connection, with emphasis on precision and systematics for cool-star abundances and planetary composition constraints.*
 
@@ -12,7 +12,7 @@ The session is organized into two 90-minute blocks, separated by a 20-minute cof
 
 ### Break (20 min)
 
-## Block 2 — Atmospheres and interpretation (90 min)
+### Block 2 — Atmospheres and interpretation (90 min)
 - **Invited keynote:** 20 min + 5 min Q&A  
   *How atmospheric properties (metallicity, C/O, disequilibrium chemistry) relate to host-star abundances and interior physics in the JWST era.*
 
