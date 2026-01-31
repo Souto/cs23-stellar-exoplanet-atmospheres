@@ -33,3 +33,20 @@ h4 {
   font-size: 1rem !important;
 }
 
+/* Global page background */
+body {
+  background-color: #f0f2f5 !important; /* soft gray */
+}
+
+/* Main content container */
+.page {
+  background-color: #f7f8fa !important;
+}
+
+/* Article content card */
+.page__content {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.05);
+}
