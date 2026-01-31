@@ -10,6 +10,8 @@ header:
   overlay_filter: 0.35
   overlay_color: "#0b1026"
   actions:
+    - label: "Home"
+      url: "/"    
     - label: "Motivation"
       url: "/motivation/"  
     - label: "Program"
