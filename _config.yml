@@ -18,7 +18,7 @@ markdown: kramdown
 permalink: pretty
 
 # --- Minimal Mistakes options ---
-minimal_mistakes_skin: "mint"   # later you can try: "air", "mint", "contrast", etc.
+minimal_mistakes_skin: "air"   # later you can try: "air", "mint", "contrast", etc.
 search: true
 custom_css:
   - /assets/css/custom.css
