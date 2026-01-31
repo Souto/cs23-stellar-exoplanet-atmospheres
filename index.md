@@ -4,13 +4,18 @@ title: "Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atm
 excerpt: "A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era."
 header:
   overlay_image: /assets/images/hero.png
-  overlay_filter: 0.25
+  overlay_filter: 0.125
   overlay_color: "#000000"
   actions:
+    - label: "Motivation"
+      url: "/motivation/"  
+    - label: "Program"
+      url: "/program/"      
     - label: "Call for Contributions"
       url: "/call-for-contributions/"
-    - label: "Program"
-      url: "/program/"
+    - label: "Organizers"
+      url: "/organizers/"      
+
 ---
 
 ## Welcome
