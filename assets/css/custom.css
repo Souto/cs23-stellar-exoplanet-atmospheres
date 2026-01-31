@@ -1,0 +1,26 @@
+/* Global font scaling */
+html {
+  font-size: 15px;   /* default is ~16px */
+}
+
+/* Body text */
+body {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+/* Headings slightly reduced */
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.15rem; }
+
+/* Hero splash title */
+.page__title {
+  font-size: 2.6rem;
+}
+
+/* Splash excerpt text */
+.page__lead {
+  font-size: 1.2rem;
+}
