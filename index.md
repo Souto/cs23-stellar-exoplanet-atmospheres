@@ -43,7 +43,7 @@ Many key atmospheric targets orbit **K and M dwarfs**, yet accurate stellar abun
 ## Quick links
 
 - [Call for Contributions](/call-for-contributions/)
-- [Program](/program/)
+- [Program](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/program/)
 - [Organizers](/organizers/)
 - [Contact](/contact/)
 
