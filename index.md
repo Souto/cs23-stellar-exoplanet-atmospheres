@@ -56,15 +56,16 @@ With your help, we aim to:
 - Evaluate the precision and systematic uncertainties in both stellar and planetary measurements, emphasizing homogeneous analyses, consistent reference scales, and realistic retrieval systematics for cool stars and their planets.
 - Foster collaboration between stellar and planetary scientists, ensuring that the Cool Stars community remains central in developing the tools and databases necessary to interpret exoplanet chemistry.
 
-## When and where 
+## Why this session 
+
+Many key atmospheric targets orbit K and M dwarfs, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links among stellar chemistry, planet formation, structure, and retrieved atmospheric properties.
+
+## _When and where _
 
 - **Conference:** Cool Stars 23 (Tokyo, Japan)  
 - **Session length:** 180 minutes (two 90-minute blocks with a 20-minute break)  
 - **Format:** keynotes + contributed talks + moderated discussion panel  
 
-## Why this session 
-
-Many key atmospheric targets orbit K and M dwarfs, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links among stellar chemistry, planet formation, structure, and retrieved atmospheric properties.
 
 ## Quick links 
 
