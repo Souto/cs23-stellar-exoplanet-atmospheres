@@ -1,31 +1,57 @@
 title: "Connecting Stellar Chemistry to Exoplanet Structure and Atmospheres"
-description: "CS23 splinter session — bridging host-star abundances with exoplanet interiors and atmospheric composition in the JWST/ARIEL era."
-
+description: "CS23 Splinter Session — bridging host-star abundances with exoplanet interiors and atmospheric composition in the JWST/ARIEL era."
 url: "https://souto.github.io"
 baseurl: "/cs23-stellar-exoplanet-atmospheres"
 
-remote_theme: just-the-docs/just-the-docs
-
+# --- Theme ---
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
-search_enabled: true
-search:
-  button: true
+# --- Site settings ---
+locale: "en-US"
+timezone: "America/Sao_Paulo"
 
+# --- Build / Markdown ---
+markdown: kramdown
 permalink: pretty
-color_scheme: light
-heading_anchors: true
 
-back_to_top: true
-back_to_top_text: "Back to top"
+# --- Minimal Mistakes options ---
+minimal_mistakes_skin: "default"   # later you can try: "air", "mint", "contrast", etc.
+search: true
 
-aux_links:
-  "Program":
-    - "https://souto.github.io/cs23-stellar-exoplanet-atmospheres/program/"
-  "Call for Contributions":
-    - "https://souto.github.io/cs23-stellar-exoplanet-atmospheres/call-for-contributions/"
-  "Contact":
-    - "https://souto.github.io/cs23-stellar-exoplanet-atmospheres/contact/"
-  "CS23 Main Website":
-    - "https://coolstars23.github.io/"
+# --- Top navigation ---
+# This drives the top menu bar.
+# (Paths assume you use pretty permalinks.)
+navigation:
+  - title: "Welcome"
+    url: /
+  - title: "Program"
+    url: /program/
+  - title: "Call for Contributions"
+    url: /call-for-contributions/
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Contact"
+    url: /contact/
+
+# --- Defaults for pages ---
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: false
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+
+# --- Excludes (optional) ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
