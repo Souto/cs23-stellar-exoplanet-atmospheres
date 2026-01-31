@@ -18,6 +18,19 @@ header:
 
 ---
 
+<style>
+.page__hero h1,
+.page__hero .page__lead {
+  color: #1a1a1a;
+  text-shadow: none;
+}
+
+.page__hero-caption .btn {
+  color: #1a1a1a;
+  border-color: #1a1a1a;
+}
+</style>
+
 ## Welcome
 
 This CS23 splinter session brings together the Cool Stars and exoplanet communities to discuss how **host-star chemical abundances** inform (and sometimes fail to predict) **exoplanet interiors** and **atmospheric composition**, especially in the **JWST and ARIEL era**.
