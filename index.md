@@ -75,7 +75,8 @@ Many key atmospheric targets orbit K and M dwarfs, yet accurate stellar abundanc
 - [Organizers](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/organizers/))
 - [Contact](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/contact/)
 
-
+## <i>Contact</i>
+If you have any questions regarding our splinter session, please let us know! Send an email to: diogosouto@academico.ufs.br
 
 
 > **Reminder:** CS23 follows a **one-person–one-talk** policy. Plenary speakers cannot give a talk in a splinter session, and no one can present in more than one splinter.
