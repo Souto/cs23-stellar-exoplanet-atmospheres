@@ -45,7 +45,7 @@ h2, h3 {
 
 ### Call for Contributions
 
-We invite contributions that connect **host-star chemical abundances** with **exoplanet interiors and atmospheric composition**, particularly for **K and M dwarf hosts** and in the context of **JWST** and **ARIEL**.
+We invite contributions that connect host-star chemical abundances with exoplanet interiors and atmospheric composition, particularly for K- and M-dwarf hosts.
 
 ### How to submit
 - Submission link: ****
