@@ -26,21 +26,21 @@ h2, h3 {
 
 
 
-## Welcome --
+## Welcome 
 
 This CS23 splinter session brings together the Cool Stars and exoplanet communities to discuss how **host-star chemical abundances** inform (and sometimes fail to predict) **exoplanet interiors** and **atmospheric composition**, especially in the **JWST and ARIEL era**.
 
-## When and where --
+## When and where 
 
 - **Conference:** Cool Stars 23 (Tokyo, Japan)  
 - **Session length:** 180 minutes (two 90-minute blocks with a 20-minute break)  
 - **Format:** keynotes + contributed talks + moderated discussion panel  
 
-## Why this session --
+## Why this session 
 
 Many key atmospheric targets orbit **K and M dwarfs**, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links between **stellar chemistry**, **planet formation and structure**, and **retrieved atmospheric properties**.
 
-## Quick links --
+## Quick links 
 
 - [Motivation](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/motivation/)
 - [Program](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/program/)
