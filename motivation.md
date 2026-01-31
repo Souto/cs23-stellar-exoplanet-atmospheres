@@ -1,29 +1,15 @@
 ---
-title: Motivation
-nav_order: 1
+title: "Motivation"
+layout: single
+permalink: /motivation/
 ---
 
-# Motivation
+## Motivation
 
-The session is organized into **two 90-minute blocks** separated by a **20-minute coffee break**.
+The past decade has transformed how we study the chemical connection between stars and their planets. Large, high-resolution stellar surveys now provide precise elemental abundances for thousands of planet-hosting stars, while HST, JWST, and future missions like ARIEL are delivering atmospheric spectra of unprecedented quality across a wide range of exoplanets. For the first time, we can directly test whether planetary interiors and atmospheres preserve, modify, or erase the chemical fingerprint of their host stars and natal disks.
 
-## Block 1 — Star–planet connection and interiors (90 min)
-- **Invited keynote:** 25 min + 5 min Q&A  
-  *State-of-the-art overview of the star–planet chemical connection, with emphasis on precision and systematics for cool-star abundances and planetary composition constraints.*
+Recent results show that the star–planet connection is more complex than early models assumed. Stellar abundances are not always a simple proxy for planetary composition: disk evolution, migration, impacts, and atmospheric escape can strongly reshape planetary chemistry. Rocky planets can diverge from stellar Fe/Mg/Si expectations, and atmospheric metallicities and C/O ratios retrieved by JWST do not always follow simple stellar scaling. These findings point to active chemical processing during formation and evolution, not just inheritance.
 
-- **Contributed talks:** 5 × (10 min + 2 min)  
-  Topics may include: abundance systematics in K/M dwarfs, disk fractionation and inheritance, interior-structure constraints from Fe/Mg/Si, and empirical star–planet composition offsets.
+This splinter session is motivated by the need to move beyond first-order correlations and toward a physically grounded picture that links stellar chemistry, disk evolution, interior structure, and atmospheric measurements. Many of the most important JWST and ARIEL targets orbit cool K and M dwarfs — precisely the stars where abundance measurements are most challenging. Bridging stellar spectroscopy with exoplanet interior and atmospheric modeling is therefore essential for interpreting the next generation of exoplanet data.
 
-## Break (20 min)
-
-## Block 2 — Atmospheres and interpretation (90 min)
-- **Invited keynote:** 25 min + 5 min Q&A  
-  *How atmospheric properties (metallicity, C/O, disequilibrium chemistry) relate to host-star abundances and interior physics in the JWST/ARIEL era.*
-
-- **Contributed talks:** 4 × (10 min + 2 min)  
-  Topics may include: JWST results and comparative trends, retrieval systematics tied to stellar abundances, and pathways to consistent chemical scales.
-
-- **Discussion panel (15 min)**  
-  Moderated audience discussion to identify key uncertainties, priorities for homogeneous analyses, and opportunities for cross-community collaboration.
-
-> **Note:** The detailed speaker list and schedule will be posted here once finalized.
+Our goal is to bring together experts across stellar abundances, planetary interiors, and atmospheric retrievals to build a chemically self-consistent framework for exoplanet systems. By integrating these perspectives, we aim to clarify when stellar chemistry is predictive, when it breaks down, and how it ultimately shapes the diversity of planetary worlds.
