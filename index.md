@@ -5,7 +5,7 @@ excerpt: "A CS23 splinter session bridging host-star abundances with exoplanet i
 header:
   overlay_image: /assets/images/hero.png
   overlay_filter: 0.125
-  overlay_color: "#000000"
+  overlay_color: "#110000"
   actions:
     - label: "Motivation"
       url: "/motivation/"  
