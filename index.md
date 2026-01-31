@@ -19,6 +19,20 @@ header:
       url: "/organizers/"      
 
 ---
+<style>
+.btn {
+  border-radius: 999px !important;  /* makes pill shape */
+  padding: 0.7em 1.6em;
+  backdrop-filter: blur(4px);
+}
+</style>
+
+<style>
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+</style>
 
 <style>
 h2, h3 {
