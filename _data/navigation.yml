@@ -1,11 +1,1 @@
-main:
-  - title: "Welcome"
-    url: /
-  - title: "Program"
-    url: /program/
-  - title: "Call for Contributions"
-    url: /call-for-contributions/
-  - title: "Organizers"
-    url: /organizers/
-  - title: "Contact"
-    url: /contact/
+
