@@ -9,10 +9,19 @@ header:
   overlay_image: /assets/images/hero.png
   overlay_filter: 0.35
   overlay_color: "#0b1026"
+  actions:
+    - label: "Home"
+      url: "/"    
+    - label: "Motivation"
+      url: "/motivation/"  
+    - label: "Program"
+      url: "/program/"      
+    - label: "Call for Contributions"
+      url: "/call-for-contributions/"
+    - label: "Organizers"
+      url: "/organizers/"      
 
 ---
-
-
 <style>
 .btn {
   border-radius: 999px !important;  /* makes pill shape */
