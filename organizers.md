@@ -43,15 +43,85 @@ h2, h3 {
 }
 </style>
 
-## Organizers
+<style>
+.organizers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1.5rem;
+}
 
-- Diogo Souto (Federal University of Sergipe, Brazil)
-- Katia Cunha (Steward Observatory, USA)
-- Nuno Santos (Instituto de Astrofísica e Ciências do Espaço, Portugal)
-- Rafael Luque (Instituto de Astrofísica de Andalucía, Spain)
-- Enric Palle (Instituto de Astrofísica de Canárias, Spain)
-- Ian Crossfield (University of Kansas, USA)
-- Yui Kawashima (Kyoto University, Japan)
+.organizer {
+  text-align: center;
+}
+
+.organizer img {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin-bottom: 0.6rem;
+}
+
+.organizer a {
+  font-weight: 600;
+  text-decoration: none;
+  color: inherit;
+}
+
+.organizer a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
+<div class="organizers-grid">
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Diogo Souto</a><br>
+  Federal University of Sergipe, Brazil
+</div>
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Katia Cunha</a><br>
+  Steward Observatory, USA
+</div>
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Nuno Santos</a><br>
+  Instituto de Astrofísica e Ciências do Espaço, Portugal
+</div>
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Rafael Luque</a><br>
+  Instituto de Astrofísica de Andalucía, Spain
+</div>
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Enric Palle</a><br>
+  Instituto de Astrofísica de Canarias, Spain
+</div>
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Ian Crossfield</a><br>
+  University of Kansas, USA
+</div>
+
+<div class="organizer">
+  <img src="/assets/images/souto.png">
+  <a href="https://your-link-here.com">Yui Kawashima</a><br>
+  Kyoto University, Japan
+</div>
+
+</div>
+
 
 
 
