@@ -124,6 +124,6 @@ h2, h3 {
 
 
 
-### Our team
+### <i>Our team</i>
 
 We are committed to building an inclusive, interdisciplinary forum that supports participation from early-career researchers and a broad international community.
