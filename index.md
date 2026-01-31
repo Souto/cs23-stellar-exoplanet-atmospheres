@@ -45,7 +45,16 @@ h2, h3 {
 
 ## Welcome 
 
-This CS23 splinter session brings together the Cool Stars and exoplanet communities to discuss how **host-star chemical abundances** inform (and sometimes fail to predict) **exoplanet interiors** and **atmospheric composition**, especially in the **JWST and ARIEL era**.
+This CS23 splinter session brings together the Cool Stars and exoplanet communities to discuss how host-star chemical abundances inform (and sometimes fail to predict) exoplanet interiors and atmospheric composition, especially in the JWST and ARIEL era.
+
+With your help, we aim to:
+- Review the observational and theoretical foundations linking stellar chemical abundances to the physical and chemical properties of exoplanets.
+- Understand how planetary atmospheric measurements of metallicities or C/O ratios can be used to constrain these same properties for the bulk composition of the planet. 
+- Explore how stellar Mg/Si, Fe/Si, and volatile ratios constrain exoplanet interior structure and bulk composition, and under which conditions those links break down.
+- Discuss correlations and tensions between stellar abundances and planetary atmospheric metallicities or C/O ratios, using JWST retrievals to test disk-chemistry and migration scenarios.
+- Assess the level of chemical inheritance vs. fractionation between host stars and planets, including the evidence for systematic offsets rather than strict one-to-one matching.
+- Evaluate the precision and systematic uncertainties in both stellar and planetary measurements, emphasizing homogeneous analyses, consistent reference scales, and realistic retrieval systematics for cool stars and their planets.
+- Foster collaboration between stellar and planetary scientists, ensuring that the Cool Stars community remains central in developing the tools and databases necessary to interpret exoplanet chemistry.
 
 ## When and where 
 
@@ -55,14 +64,14 @@ This CS23 splinter session brings together the Cool Stars and exoplanet communit
 
 ## Why this session 
 
-Many key atmospheric targets orbit **K and M dwarfs**, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links between **stellar chemistry**, **planet formation and structure**, and **retrieved atmospheric properties**.
+Many key atmospheric targets orbit K and M dwarfs, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links among stellar chemistry, planet formation, structure, and retrieved atmospheric properties.
 
 ## Quick links 
 
 - [Motivation](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/motivation/)
 - [Program](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/program/)
 - [Contributions](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/call-for-contributions/)
-- [Organizers]([/organizers/](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/organizers/))
+- [Organizers](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/organizers/))
 - [Contact](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/contact/)
 
 
