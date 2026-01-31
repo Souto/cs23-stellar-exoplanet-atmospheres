@@ -91,7 +91,7 @@ h2, h3 {
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/katia.png' | relative_url }}" alt="Katia Cunha">  <a href="https://your-link-here.com">Katia Cunha</a><br>
+<img src="{{ '/assets/images/Katia.png' | relative_url }}" alt="Katia Cunha">  <a href="https://your-link-here.com">Katia Cunha</a><br>
   Steward Observatory, USA
 </div>
 
