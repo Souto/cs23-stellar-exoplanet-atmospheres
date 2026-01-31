@@ -91,32 +91,32 @@ h2, h3 {
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Katia Cunha</a><br>
+<img src="{{ '/assets/images/katia.png' | relative_url }}" alt="Katia Cunha">  <a href="https://your-link-here.com">Katia Cunha</a><br>
   Steward Observatory, USA
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Nuno Santos</a><br>
+<img src="{{ '/assets/images/nuno.png' | relative_url }}" alt="Nuno Santos">  <a href="https://your-link-here.com">Nuno Santos</a><br>
   Instituto de Astrofísica e Ciências do Espaço, Portugal
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Rafael Luque</a><br>
+<img src="{{ '/assets/images/luque.png' | relative_url }}" alt="Rafael Luque">  <a href="https://your-link-here.com">Rafael Luque</a><br>
   Instituto de Astrofísica de Andalucía, Spain
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Enric Palle</a><br>
+<img src="{{ '/assets/images/palle.png' | relative_url }}" alt="Enric Palle">  <a href="https://your-link-here.com">Enric Palle</a><br>
   Instituto de Astrofísica de Canarias, Spain
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Ian Crossfield</a><br>
+<img src="{{ '/assets/images/crossfield.png' | relative_url }}" alt="Ian Crossfield">  <a href="https://your-link-here.com">Ian Crossfield</a><br>
   University of Kansas, USA
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">  <a href="https://your-link-here.com">Yui Kawashima</a><br>
+<img src="{{ '/assets/images/KAWASHIMA.png' | relative_url }}" alt="Yui Kawashima">  <a href="https://your-link-here.com">Yui Kawashima</a><br>
   Kyoto University, Japan
 </div>
 
