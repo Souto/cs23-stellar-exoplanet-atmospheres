@@ -1,3 +1,10 @@
+<style>
+h2, h3 {
+  color: #b23a2f; /* dark tomato */
+}
+</style>
+
+
 ---
 layout: splash
 title: "Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres"
