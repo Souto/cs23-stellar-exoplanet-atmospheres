@@ -1,5 +1,5 @@
 
-### Program
+### 
 
 The session is organized into two 90-minute blocks, separated by a 20-minute coffee break.
 
