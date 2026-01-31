@@ -19,8 +19,6 @@ permalink: pretty
 
 # --- Minimal Mistakes options ---
 minimal_mistakes_skin: "air"   # later you can try: "air", "mint", "contrast", etc.
-custom_css:
-  - /assets/css/custom.css
 search: true
 
 # --- Top navigation ---
