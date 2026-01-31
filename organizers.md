@@ -86,7 +86,7 @@ h2, h3 {
 
 <div class="organizer">
   <img src="{{ '/assets/images/souto.png' | relative_url }}" alt="Diogo Souto">
-  <a href="https://your-link-here.com">Diogo Souto</a><br>
+  <a href="https://diogosouto.streamlit.app/">Diogo Souto</a><br>
   Federal University of Sergipe, Brazil
 </div>
 
