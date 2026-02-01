@@ -97,7 +97,7 @@ h2, h3 {
 
 <div class="organizer">
 <img src="{{ '/assets/images/nuno.png' | relative_url }}" alt="Nuno Santos">  <a href=" http://www.iastro.pt/ia/newStaffDetails.html?ID=5">Nuno Santos</a><br>
-  Instituto de Astrofísica e Ciências do Espaço, Portugal
+  Instituto de Astrofísica e Ciências do Espaço/Univ. Porto, Portugal
 </div>
 
 <div class="organizer">
