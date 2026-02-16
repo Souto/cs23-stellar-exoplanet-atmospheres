@@ -47,10 +47,13 @@ h2, h3 {
 The session is organized into two 90-minute blocks, separated by a 20-minute coffee break.
 
 ### <i>Block 1 — Star–planet Connection and Interiors (90 min)</i>
-- **Invited keynote: Dr. Vardan Adibekyan** 25 min + 5 min Q&A  
+  
   *State-of-the-art overview of the star–planet chemical connection, with emphasis on precision and systematics for cool-star abundances and planetary composition constraints.*
-  Title + Abstract
-
+  
+- **Invited keynote:** Dr. Vardan Adibekyan
+  *(25 min + 5 min Q&A)*  
+  Title + Abstract (soon)    
+  
 - **Contributed talks:** 5 × (10 min + 2 min)  
   Topics may include: abundance systematics in K/M dwarfs, disk fractionation and inheritance, interior-structure constraints from Fe/Mg/Si, and empirical star–planet composition offsets.
 
@@ -59,7 +62,6 @@ The session is organized into two 90-minute blocks, separated by a 20-minute cof
 ### <i>Block 2 — Host-Star Abundances and Exoplanetary Atmospheres: Connections and Interpretation (90 min)</i>
 - **Invited keynote: Dr. Luis Welbanks** 20 min + 5 min Q&A  
   *How atmospheric properties (metallicity, C/O, disequilibrium chemistry) relate to host-star abundances and interior physics in the JWST era.*
-Title + Abstract
 
 - **Contributed talks:** 4 × (10 min + 2 min)  
   Topics may include: JWST results and comparative trends, retrieval systematics tied to stellar abundances, and pathways to consistent chemical scales.
