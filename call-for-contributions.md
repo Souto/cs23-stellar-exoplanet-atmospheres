@@ -49,11 +49,11 @@ We invite contributions that explore the connections between host-star chemical 
 
 ### <i>How to submit</i>
 
-<a href="https://forms.gle/SSzQj2cnKiVPSi7a8" class="btn btn--primary" target="_blank">
+- <a href="https://forms.gle/SSzQj2cnKiVPSi7a8" class="btn btn--primary" target="_blank">
   Submit your contributed talk
 </a>
 
-**Deadline:** March 31th, 2026
+- **Deadline:** March 31th, 2026
 
 ### <i>What we are looking for</i>
 We welcome contributions on:
