@@ -48,8 +48,12 @@ h2, h3 {
 We invite contributions that explore the connections between host-star chemical abundances and the interiors and atmospheric compositions of exoplanets, particularly around K- and M-dwarf hosts. Our goal is to examine how stellar chemistry, disk evolution, interior structure, and atmospheric properties are linked in small exoplanets. If your work addresses these themes, we look forward to your contribution.
 
 ### <i>How to submit</i>
-- Submission link: https://forms.gle/SSzQj2cnKiVPSi7a8
-- Deadline: **March 31th, 2026**
+
+<a href="https://forms.gle/SSzQj2cnKiVPSi7a8" class="btn btn--primary" target="_blank">
+  Submit your contributed talk
+</a>
+
+**Deadline:** March 31th, 2026
 
 ### <i>What we are looking for</i>
 We welcome contributions on:
