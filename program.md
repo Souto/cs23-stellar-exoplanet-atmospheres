@@ -43,6 +43,25 @@ h2, h3 {
 }
 </style>
 
+<style>
+details {
+  background: #f1f3f5;   /* light gray background */
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-top: 6px;
+  margin-bottom: 12px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 500;
+}
+
+details[open] {
+  background: #e9ecef;   /* slightly darker when open */
+}
+</style>
+
 
 The session is organized into two 90-minute blocks, separated by a 20-minute coffee break.
 
