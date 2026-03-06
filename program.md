@@ -89,7 +89,9 @@ The session is organized into two 90-minute blocks, separated by a 20-minute cof
   *State-of-the-art overview of the star–planet chemical connection, with emphasis on precision and systematics for cool-star abundances and planetary composition constraints.*
   
 - **Invited keynote:** Dr. Vardan Adibekyan *(25 min + 5 min Q&A)*  
-  Title + Abstract (soon)    
+  <details>
+  <summary><b>The Compositional Mirror: Reflecting Stellar Abundances in Planetary Interiors</b></summary>
+  <i>Stars and their planets emerge from the same primordial reservoir, tied together by a chemical heritage that persists throughout their evolution. While protoplanetary disks dissipate within a few million years, the host star’s atmosphere remains a high-fidelity, long-lived record of the system’s initial building blocks. In this talk, I will explore the "Star–Planet Connection," evaluating the extent to which stellar chemical abundances can—or cannot—serve as reliable constraints for modeling planetary interior structures. Bridging the gap between high-resolution stellar spectroscopy and the interior modeling of rocky worlds presents significant challenges. I will discuss the current state-of-the-art in cool-star abundances, highlighting the critical role of precision and the physical processes (such as atomic diffusion or planet engulfment) that can alter present-day stellar compositions relative to their birth material. Finally, I will address the ongoing debate regarding the direct compositional link between stars and their terrestrial planets, emphasizing how systematic uncertainties in both stellar and planetary data limit our ability to uniquely characterize rocky planet interiors.</i></details>   
   
 - **Contributed talks:** 5 × (10 min + 2 min)  
   Topics may include: abundance systematics in K/M dwarfs, disk fractionation and inheritance, interior-structure constraints from Fe/Mg/Si, and empirical star–planet composition offsets.
