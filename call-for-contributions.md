@@ -55,8 +55,8 @@ We invite contributions that explore the connections between host-star chemical 
 
 - **Deadline:** March 31th, 2026
 
-- The list of accepted talks will be released by April 30, before the deadline for poster presentation abstract submission (May 7) in the CS23.
-
+- The list of accepted talks will be released before April 9, 2026, the deadline for early-bird registration.
+  
 ### <i>What we are looking for</i>
 We welcome contributions on:
 - Abundance precision and systematics for cool stars (K/M dwarfs)
