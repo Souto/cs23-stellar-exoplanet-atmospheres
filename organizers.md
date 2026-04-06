@@ -120,6 +120,11 @@ h2, h3 {
   Kyoto University, Japan
 </div>
 
+<div class="organizer">
+<img src="{{ '/assets/images/x.png' | relative_url }}" alt="Verne Smith">  <a href="">Verne Smith</a><br>
+  NoirLab, USA
+</div>
+
 </div>
 
 
