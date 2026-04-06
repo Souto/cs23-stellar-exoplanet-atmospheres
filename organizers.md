@@ -121,7 +121,7 @@ h2, h3 {
 </div>
 
 <div class="organizer">
-<img src="{{ '/assets/images/x.png' | relative_url }}" alt="Verne Smith">  <a href="">Verne Smith</a><br>
+<img src="{{ '/assets/images/verne.png' | relative_url }}" alt="Verne Smith">  <a href="">Verne Smith</a><br>
   NoirLab, USA
 </div>
 
