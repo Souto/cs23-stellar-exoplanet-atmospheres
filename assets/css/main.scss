@@ -4,59 +4,6 @@
 
 @import "minimal-mistakes";
 
-/* Your font scaling */
-html { font-size: 15px; }
-body { font-size: 0.95rem; line-height: 1.55; }
-
-h1 { font-size: 2.2rem; }
-h2 { font-size: 1.7rem; }
-h3 { font-size: 1.35rem; }
-h4 { font-size: 1.15rem; }
-
-.page__title { font-size: 2.6rem; }
-.page__lead { font-size: 1.2rem; }
-
-/* Reduce heading sizes */
-h1, .page__title {
-  font-size: 1.8rem !important;
-}
-
-h2 {
-  font-size: 1.2rem !important;
-}
-
-h3 {
-  font-size: 1.0rem !important;
-}
-
-h4 {
-  font-size: 1rem !important;
-}
-
-/* Global page background */
-body {
-  background-color: #f0f2f5 !important; /* soft gray */
-}
-
-/* Main content container */
-.page {
-  background-color: #f0f2f5 !important;
-}
-
-/* Article content card */
-.page__content {
-  background-color: #f0f2f5;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.05);
-}
-
-
-
-/* Color all section titles globally */
-.page__content h2,
-.page__content h3 {
-  color: darktomato;
-}
-
-
+/* Site background — detailed component styles live in assets/css/custom.css */
+body { background-color: #f0f2f5; }
+.page { background-color: #f0f2f5; }
