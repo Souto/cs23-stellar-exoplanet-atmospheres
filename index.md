@@ -2,76 +2,83 @@
 layout: splash
 title: "Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres"
 excerpt: |
-  A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era.
-  **Tuesday, 16 June 2026 · Cool Stars 23 · Tokyo, Japan**
+  A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era. 
+  Tuesday, June 16h, 2026.
 
 header:
   overlay_image: /assets/images/hero.png
-  overlay_filter: 0.42
+  overlay_filter: 0.35
   overlay_color: "#0b1026"
   actions:
+    - label: "Home"
+      url: "/"    
     - label: "Motivation"
-      url: "/motivation/"
+      url: "/motivation/"  
     - label: "Program"
-      url: "/program/"
+      url: "/program/"      
     - label: "Call for Contributions"
       url: "/call-for-contributions/"
     - label: "Organizers"
-      url: "/organizers/"
+      url: "/organizers/"      
 
 ---
+<style>
+.btn {
+  border-radius: 999px !important;  /* makes pill shape */
+  padding: 0.7em 1.6em;
+  backdrop-filter: blur(4px);
+}
+</style>
 
-<div class="info-cards">
-  <div class="info-card">
-    <span class="ic-icon">📅</span>
-    <div class="ic-label">Date</div>
-    <div class="ic-value">Tuesday, 16 June 2026</div>
-  </div>
-  <div class="info-card">
-    <span class="ic-icon">📍</span>
-    <div class="ic-label">Location</div>
-    <div class="ic-value">Cool Stars 23 · Tokyo, Japan</div>
-  </div>
-  <div class="info-card">
-    <span class="ic-icon">⏱️</span>
-    <div class="ic-label">Format</div>
-    <div class="ic-value">180 min · Keynotes + Talks + Panel</div>
-  </div>
-</div>
+<style>
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+</style>
 
-## Welcome
+<style>
+h2, h3 {
+  color: #b23a2f; /* dark tomato */
+}
+</style>
 
-This splinter session at Cool Stars 23 brings together the stellar and exoplanet communities to examine how host-star chemical abundances shape — and sometimes fail to predict — the interiors and atmospheric compositions of exoplanets. With JWST delivering atmospheric spectra of unprecedented quality and ARIEL on the horizon, the time is right to forge a chemically self-consistent picture linking stellar spectroscopy, disk chemistry, planetary interiors, and atmospheric retrievals.
 
-Many of the most important exoplanet atmospheric targets orbit K and M dwarfs, precisely the stars where precise abundance measurements remain most challenging. Bridging these communities is not just desirable — it is essential for interpreting the next generation of exoplanet data.
 
-The session runs across two 90-minute blocks separated by a coffee break, combining invited keynotes, contributed talks, and a moderated discussion panel. Together we aim to:
+## <i>Welcome</i>
 
-<ul class="goals-list">
-  <li>Review the observational and theoretical foundations linking stellar chemical abundances to the physical and chemical properties of exoplanets.</li>
-  <li>Understand how planetary atmospheric measurements of metallicities or C/O ratios constrain bulk planetary composition.</li>
-  <li>Explore how stellar Mg/Si, Fe/Si, and volatile ratios constrain exoplanet interior structure, and under which conditions those links break down.</li>
-  <li>Discuss correlations and tensions between stellar abundances and planetary atmospheric metallicities or C/O ratios, using JWST retrievals to test disk-chemistry and migration scenarios.</li>
-  <li>Assess the level of chemical inheritance vs. fractionation between host stars and planets, including evidence for systematic offsets rather than strict one-to-one matching.</li>
-  <li>Evaluate precision and systematic uncertainties in both stellar and planetary measurements, emphasizing homogeneous analyses and realistic retrieval systematics for cool-star systems.</li>
-  <li>Foster collaboration between stellar and planetary scientists, ensuring the Cool Stars community remains central in developing the tools and databases needed to interpret exoplanet chemistry.</li>
-</ul>
+This CS23 splinter session brings together the Cool Stars and exoplanet communities to discuss how host-star chemical abundances inform (and sometimes fail to predict) exoplanet interiors and atmospheric composition, especially in the JWST and ARIEL era.
 
-## Why this session
+With your help, we aim to:
+- Review the observational and theoretical foundations linking stellar chemical abundances to the physical and chemical properties of exoplanets.
+- Understand how planetary atmospheric measurements of metallicities or C/O ratios can be used to constrain these same properties for the bulk composition of the planet. 
+- Explore how stellar Mg/Si, Fe/Si, and volatile ratios constrain exoplanet interior structure and bulk composition, and under which conditions those links break down.
+- Discuss correlations and tensions between stellar abundances and planetary atmospheric metallicities or C/O ratios, using JWST retrievals to test disk-chemistry and migration scenarios.
+- Assess the level of chemical inheritance vs. fractionation between host stars and planets, including the evidence for systematic offsets rather than strict one-to-one matching.
+- Evaluate the precision and systematic uncertainties in both stellar and planetary measurements, emphasizing homogeneous analyses, consistent reference scales, and realistic retrieval systematics for cool stars and their planets.
+- Foster collaboration between stellar and planetary scientists, ensuring that the Cool Stars community remains central in developing the tools and databases necessary to interpret exoplanet chemistry.
 
-Star–planet chemical connections are more complex than early models assumed. Disk evolution, migration, giant impacts, and atmospheric escape can strongly reshape planetary composition. Rocky planets can diverge from stellar Fe/Mg/Si expectations, and atmospheric metallicities and C/O ratios retrieved by JWST do not always follow simple stellar scaling relations. These findings point to active chemical processing during formation and evolution — not mere inheritance.
+## <i>Why this session</i> 
 
-This session is motivated by the need to move beyond first-order correlations toward a physically grounded framework linking stellar chemistry, disk evolution, interior structure, and atmospheric observations, with rigorous attention to measurement systematics on both sides.
+Many key atmospheric targets orbit K and M dwarfs, yet accurate stellar abundances for cool stars remain challenging due to molecular blends, activity, and model systematics. This session focuses on establishing realistic links among stellar chemistry, planet formation, structure, and retrieved atmospheric properties.
 
-## Session details
+## <i>When and where</i>
 
-- **Conference:** Cool Stars 23, Tokyo, Japan
-- **Session date:** Tuesday, 16 June 2026
-- **Length:** 180 minutes — two 90-minute blocks with a 20-minute coffee break
-- **Format:** Invited keynotes + contributed talks + moderated discussion panel
+- **Conference:** Cool Stars 23 (Tokyo, Japan)  
+- **Session length:** 180 minutes (two 90-minute blocks with a 20-minute break)  
+- **Format:** keynotes + contributed talks + moderated discussion panel  
 
-## Contact
 
-Questions? Reach the organizing team at **diogosouto@academico.ufs.br**
+## <i>Quick links</i>
 
-> **CS23 policy:** One person, one talk across the entire meeting. Plenary speakers cannot give a talk in a splinter session, and no one may present in more than one splinter.
+- [Motivation](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/motivation/)
+- [Program](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/program/)
+- [Contributions](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/call-for-contributions/)
+- [Organizers](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/organizers/)
+- [Contact](https://souto.github.io/cs23-stellar-exoplanet-atmospheres/contact/)
+
+## <i>Contact</i>
+If you have any questions regarding our splinter session, please let us know! Send an email to: diogosouto@academico.ufs.br
+
+
+> **Reminder:** CS23 follows a **one-person–one-talk** policy. Plenary speakers cannot give a talk in a splinter session, and no one can present in more than one splinter.

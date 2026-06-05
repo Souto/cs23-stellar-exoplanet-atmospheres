@@ -2,41 +2,53 @@
 layout: splash
 title: "Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres"
 excerpt: |
-  Why now? The star–planet chemical connection demands a new, integrated framework.
-  **Tuesday, 16 June 2026 · Cool Stars 23 · Tokyo, Japan**
+  A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era. 
+  Tuesday, June 16h, 2026.
 
 header:
   overlay_image: /assets/images/hero.png
-  overlay_filter: 0.42
+  overlay_filter: 0.35
   overlay_color: "#0b1026"
   actions:
     - label: "Home"
-      url: "/"
+      url: "/"    
+    - label: "Motivation"
+      url: "/motivation/"  
     - label: "Program"
-      url: "/program/"
+      url: "/program/"      
     - label: "Call for Contributions"
       url: "/call-for-contributions/"
     - label: "Organizers"
-      url: "/organizers/"
+      url: "/organizers/"      
 
 ---
+<style>
+.btn {
+  border-radius: 999px !important;  /* makes pill shape */
+  padding: 0.7em 1.6em;
+  backdrop-filter: blur(4px);
+}
+</style>
 
-## Motivation
+<style>
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+</style>
 
-The past decade has transformed how we study the chemical connection between stars and their planets. Large, high-resolution stellar surveys now provide precise elemental abundances for thousands of planet-hosting stars, while HST, JWST, and future missions like ARIEL are delivering atmospheric spectra of unprecedented quality across a wide range of exoplanets. For the first time, we can directly and rigorously test whether planetary interiors and atmospheres preserve, modify, or erase the chemical fingerprint of their host stars and natal disks.
+<style>
+h2, h3 {
+  color: #b23a2f; /* dark tomato */
+}
+</style>
 
-Yet recent results reveal that the star–planet connection is more complex than early models assumed. Stellar abundances are not always a simple proxy for planetary composition: disk evolution, migration, giant impacts, and atmospheric escape can strongly reshape planetary chemistry. Rocky planets can diverge from stellar Fe/Mg/Si expectations, and atmospheric metallicities and C/O ratios retrieved by JWST do not always follow simple stellar scaling relations. These findings point to active chemical processing during formation and subsequent evolution — not mere inheritance.
+## <i> Motivation </i>
 
-<div class="key-point">
-Many of the most scientifically important JWST and ARIEL targets orbit cool K and M dwarfs — precisely the stars where elemental abundance measurements are most challenging due to molecular blends, magnetic activity, and model systematics. Bridging stellar spectroscopy with exoplanet interior and atmospheric modeling is therefore essential for interpreting the next generation of exoplanet data.
-</div>
+The past decade has transformed how we study the chemical connection between stars and their planets. Large, high-resolution stellar surveys now provide precise elemental abundances for thousands of planet-hosting stars, while HST, JWST, and future missions like ARIEL are delivering atmospheric spectra of unprecedented quality across a wide range of exoplanets. For the first time, we can directly test whether planetary interiors and atmospheres preserve, modify, or erase the chemical fingerprint of their host stars and natal disks.
 
-This splinter session is motivated by the need to move beyond first-order correlations and toward a physically grounded picture that links stellar chemistry, disk evolution, interior structure, and atmospheric measurements in a self-consistent way.
+Recent results show that the star–planet connection is more complex than early models assumed. Stellar abundances are not always a simple proxy for planetary composition: disk evolution, migration, impacts, and atmospheric escape can strongly reshape planetary chemistry. Rocky planets can diverge from stellar Fe/Mg/Si expectations, and atmospheric metallicities and C/O ratios retrieved by JWST do not always follow simple stellar scaling. These findings point to active chemical processing during formation and evolution, not just inheritance.
 
-Our goal is to bring together experts across stellar abundances, planetary interiors, and atmospheric retrievals to build a chemically self-consistent framework for exoplanet systems. By integrating these perspectives, we aim to clarify:
+This splinter session is motivated by the need to move beyond first-order correlations and toward a physically grounded picture that links stellar chemistry, disk evolution, interior structure, and atmospheric measurements. Many of the most important JWST and ARIEL targets orbit cool K and M dwarfs — precisely the stars where abundance measurements are most challenging. Bridging stellar spectroscopy with exoplanet interior and atmospheric modeling is therefore essential for interpreting the next generation of exoplanet data.
 
-- **When stellar chemistry is predictive** — and at what level of precision;
-- **When it breaks down** — and which physical processes are responsible;
-- **How it ultimately shapes** the observed diversity of planetary worlds.
-
-A particular focus will be on realistic treatment of uncertainties and systematics: homogeneous analyses, consistent reference scales, and reliable retrieval frameworks for cool-star systems. Getting these right is a prerequisite for any meaningful comparison between stellar and planetary compositions.
+Our goal is to bring together experts across stellar abundances, planetary interiors, and atmospheric retrievals to build a chemically self-consistent framework for exoplanet systems. By integrating these perspectives, we aim to clarify when stellar chemistry is predictive, when it breaks down, and how it ultimately shapes the diversity of planetary worlds.

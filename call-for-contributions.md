@@ -2,57 +2,79 @@
 layout: splash
 title: "Connecting Cool Dwarfs' Stellar Chemistry to Exoplanet Structure and Atmospheres"
 excerpt: |
-  Submissions are now closed. Check out the accepted speakers in the Program.
-  **Tuesday, 16 June 2026 · Cool Stars 23 · Tokyo, Japan**
+  A CS23 splinter session bridging host-star abundances with exoplanet interiors and atmospheres in the JWST/ARIEL era. 
+  Tuesday, June 16h, 2026.
 
 header:
   overlay_image: /assets/images/hero.png
-  overlay_filter: 0.42
+  overlay_filter: 0.35
   overlay_color: "#0b1026"
   actions:
     - label: "Home"
-      url: "/"
+      url: "/"    
     - label: "Motivation"
-      url: "/motivation/"
+      url: "/motivation/"  
     - label: "Program"
-      url: "/program/"
+      url: "/program/"      
+    - label: "Call for Contributions"
+      url: "/call-for-contributions/"
     - label: "Organizers"
-      url: "/organizers/"
+      url: "/organizers/"      
 
 ---
+<style>
+.btn {
+  border-radius: 999px !important;  /* makes pill shape */
+  padding: 0.7em 1.6em;
+  backdrop-filter: blur(4px);
+}
+</style>
 
-<div class="notice-box closed">
-  <strong>Submissions are now closed.</strong> The deadline was 31 March 2026. See our <a href="/cs23-stellar-exoplanet-atmospheres/program/">Program</a> for the full list of accepted speakers and schedule.
-</div>
+<style>
+.btn:hover {
+  background: rgba(255,255,255,0.15);
+  transform: translateY(-1px);
+}
+</style>
 
-## Call for Contributions
+<style>
+h2, h3 {
+  color: #b23a2f; /* dark tomato */
+}
+</style>
 
-We invited contributions exploring the connections between host-star chemical abundances and the interiors and atmospheric compositions of exoplanets, with particular emphasis on K- and M-dwarf hosts. Our goal was to examine how stellar chemistry, disk evolution, interior structure, and atmospheric properties are linked — and where they diverge — in the era of JWST and ARIEL.
+### <i>Call for Contributions</i>
 
-## Topics of interest
+We invite contributions that explore the connections between host-star chemical abundances and the interiors and atmospheric compositions of exoplanets, particularly around K- and M-dwarf hosts. Our goal is to examine how stellar chemistry, disk evolution, interior structure, and atmospheric properties are linked in small exoplanets. If your work addresses these themes, we look forward to your contribution.
 
-We welcomed contributions on:
+### <i>How to submit -- Submission is closed. Check out our speakers in the Splinter Session program</i>
 
+- <a href="https://forms.gle/SSzQj2cnKiVPSi7a8" class="btn btn--primary" target="_blank">
+  Submit your contributed talk
+</a>
+
+- **Deadline:** March 31th, 2026 
+
+- The list of accepted talks will be released before April 9, 2026, the deadline for early-bird registration.
+
+### <i>What we are looking for</i>
+We welcome contributions on:
 - Abundance precision and systematics for cool stars (K/M dwarfs)
-- Disk chemistry, inheritance, and fractionation and its connection to host-star abundances
-- Interior structure constraints from Fe/Mg/Si, Mg/Si, and volatile budgets
-- Exoplanet atmospheric retrievals and chemical interpretation (metallicity, C/O, disequilibrium chemistry)
-- Bridging frameworks: consistent reference scales and joint stellar–planetary modeling strategies
+- Disk chemistry, inheritance, and fractionation, and its connection to host star abundance
+- Interior constraints (Fe/Mg/Si, Mg/Si, volatile budgets)
+- Exoplanet atmospheric retrievals and chemical interpretation (metallicity, C/O, disequilibrium)
+- Bridging frameworks: consistent reference scales and joint modeling strategies
 
-## Presentation formats
+### <i>Presentation formats</i>
+- **Invited speaker:** 20-25 min + 5 min Q&A  
+- **Contributed talks:** 10 min + 2 min Q&A  
+- **Posters:** encouraged (details will be posted once CS23 poster guidance is finalized)
 
-| Format | Duration |
-|---|---|
-| Invited keynote | 20–25 min + 5 min Q&A |
-| Contributed talk | 10 min + 2 min Q&A |
-| Poster | Per CS23 guidance |
-
-## Selection criteria
-
-Talk selections prioritized:
+### <i>Selection and policies</i>
+Talk selections will prioritize:
 - Scientific relevance to the session theme
-- Methodological clarity, especially on uncertainties and systematics
-- Direct links between host-star abundances and exoplanet properties
+- Methodological clarity (especially on uncertainties/systematics)
+- Links the host star's abundances to exoplanets' properties
 - Diversity across gender, career stage, geography, and institutions
 
-> **CS23 policy:** One person, one talk across the entire meeting.
+> **Reminder:** CS23 follows a one-person–one-talk policy across the entire meeting.
